@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/booth-tarkington/alice-adams</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-09-21T03:47:27Z</dc:date>
+		<meta property="dcterms:modified">2017-09-21T03:47:27Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,14 +32,17 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/980</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/980</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young Midwestern woman tries to climb the social ladder despite her lower-middle-class upbringing.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Alice Adams&lt;/i&gt; is Booth Tarkington’s second novel to win a Pulitzer Prize, just three years after his novel &lt;i&gt;The Magnificent Ambersons&lt;/i&gt; won it. The novel tells the story of Alice, a Midwestern girl who grows up in a lower-middle-class family just after World War I. Alice meets a wealthy young man and tries to win his affection, despite her lower-class upbringing.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Alice Adams&lt;/i&gt; was twice adapted for film, with the second adaptation starring Katherine Hepburn and earning a nomination for the Academy Award for Best Picture.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/980</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100541804</dc:source>
-		<meta property="se:word-count">88371</meta>
+		<meta property="se:word-count">88362</meta>
 		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice_Adams</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_alice-adams</meta>
@@ -71,8 +74,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alina Pyzowski</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Pyzowski, Alina</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
