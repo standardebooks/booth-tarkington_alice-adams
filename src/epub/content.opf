@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/booth-tarkington/alice-adams</dc:identifier>
 		<dc:date>2017-09-21T03:47:27Z</dc:date>
-		<meta property="dcterms:modified">2017-12-15T04:13:11Z</meta>
-		<meta property="se:revision-number">7</meta>
+		<meta property="dcterms:modified">2017-12-18T00:25:43Z</meta>
+		<meta property="se:revision-number">8</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/980</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100541804</dc:source>
-		<meta property="se:word-count">88362</meta>
+		<meta property="se:word-count">88363</meta>
 		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice_Adams</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_alice-adams</meta>
@@ -52,10 +52,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Booth_Tarkington</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79078124</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Colin Campbell Cooper</dc:contributor>
-		<meta property="file-as" refines="#artist">Campbell Cooper, Colin</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Colin_Campbell_Cooper</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81107915</meta>
+		<dc:contributor id="artist">Édouard Manet</dc:contributor>
+		<meta property="file-as" refines="#artist">Manet, Édouard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/%C3%89douard_Manet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043160</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
