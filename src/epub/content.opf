@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Alice Adams</dc:title>
 		<meta property="file-as" refines="#title">Alice Adams</meta>
 		<dc:subject id="subject-1">Young women -- Fiction</dc:subject>
@@ -35,20 +35,24 @@
 		<dc:subject id="subject-4">Social classes -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Middle West -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Middle class families -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/980</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/980</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/980</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/980</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/980</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/980</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008114026</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh86004353</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2003003087</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008111427</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008107407</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2010101708</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young Midwestern woman tries to climb the social ladder despite her lower-middle-class upbringing.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Alice Adams&lt;/i&gt; is Booth Tarkington’s second novel to win a Pulitzer Prize, just three years after his novel &lt;i&gt;The Magnificent Ambersons&lt;/i&gt; won it. The novel tells the story of Alice, a Midwestern girl who grows up in a lower-middle-class family just after World War I. Alice meets a wealthy young man and tries to win his affection, despite her lower-class upbringing.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Alice Adams&lt;/i&gt; was twice adapted for film, with the second adaptation starring Katherine Hepburn and earning a nomination for the Academy Award for Best Picture.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/980</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100541804</dc:source>
