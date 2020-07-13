@@ -48,6 +48,9 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010101708</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize Winners</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A young Midwestern woman tries to climb the social ladder despite her lower-middle-class upbringing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Alice Adams&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/booth-tarkington"&gt;Booth Tarkington’s&lt;/a&gt; second novel to win a Pulitzer Prize, just three years after his novel &lt;a href="https://standardebooks.org/ebooks/booth-tarkington/the-magnificent-ambersons"&gt;&lt;i&gt;The Magnificent Ambersons&lt;/i&gt;&lt;/a&gt; won it. The novel tells the story of Alice, a Midwestern girl who grows up in a lower-middle-class family just after World War I. Alice meets a wealthy young man and tries to win his affection, despite her lower-class upbringing.&lt;/p&gt;
