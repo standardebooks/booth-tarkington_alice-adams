@@ -62,7 +62,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100541804</dc:source>
 		<meta property="se:word-count">88367</meta>
 		<meta property="se:reading-ease.flesch">81.93</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice_Adams</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice_Adams_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_alice-adams</meta>
 		<dc:creator id="author">Booth Tarkington</dc:creator>
 		<meta property="file-as" refines="#author">Tarkington, Booth</meta>
